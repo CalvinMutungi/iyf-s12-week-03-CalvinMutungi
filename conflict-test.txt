@@ -1,1 +1,3 @@
+Line version A from feature branch
+
 Line version B conflicting from main branch
