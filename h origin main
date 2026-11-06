@@ -1,6 +1,0 @@
-[33md604542[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Fix: resolve local merge conflict in conflict-test.txt
-[33me000969[m Add: conflicting version of test file on main branch
-[33mff0f992[m Add: conflict test file on feature branch
-[33m62af2c6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add: project setup script with directory generation logic
-[33mb19c2e7[m Add: terminal log with command documentation
-[33m2df0ab5[m Initial commit
